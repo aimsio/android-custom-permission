@@ -1,3 +1,8 @@
 <resources>
     <string name="app_name">custom-permission</string>
+    <string name="permission_script_server">connect to Aimsio Script server</string>
+    <string name="permission_form_data">read Aimsio form data</string>
+
+    <string name="label_permission_script_server">ask for script server permission</string>
+    <string name="label_permission_form_data">ask for form data permission</string>
 </resources>
